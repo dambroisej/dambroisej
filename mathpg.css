@@ -24,7 +24,7 @@ http://perishablepress.com/press/2009/12/06/new-clearfix-hack/
 
 /* special for index.html */
 .categoryctr {
-  float: center;
+  align: center;
 }
 
 /* formatting across site */
