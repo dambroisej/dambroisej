@@ -18,8 +18,13 @@ http://perishablepress.com/press/2009/12/06/new-clearfix-hack/
 
 /* special for index.html */
 .category {
-  float: center;
+  float: left;
   margin-right: 2em;
+}
+
+/* special for index.html */
+.categoryctr {
+  float: center;
 }
 
 /* formatting across site */
